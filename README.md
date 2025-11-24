@@ -7,4 +7,4 @@ See 'Tables_ACS_rev_aug.22.25.xlsx' (Results branch) for detailed tables of resu
 
 Download and open 'InteractiveForestPlot_FigS1aR1.html' (Results branch) for an interactive forest plot of age-adjusted cancer mortality rates by occupation with drop-down boxes to select cancer site, sex, and major occupation groupings (to explore cancer burden across occupations)
 
-Download and open 'InteractiveForestPlot_FigS1bR1.html' (Results branch) for an interactive forest plot of age-adjusted cancer mortality rates by occupation with drop-down boxes to select sex and a specific occupation (to explore cancer burden for a specific occupation) - OR - https://jjplascak.github.io/US-Cancer-Mortality-by-Occupation/Index
+Download and open 'InteractiveForestPlot_FigS1bR1.html' (Results branch) for an interactive forest plot of age-adjusted cancer mortality rates by occupation with drop-down boxes to select sex and a specific occupation (to explore cancer burden for a specific occupation) - OR - https://jjplascak.github.io/US-Cancer-Mortality-by-Occupation/index.html
